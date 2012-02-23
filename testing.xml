@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suites>
+	<suite name = "Sample Suite">
+		<test name = "New Test">
+			<classes>
+				<class name = "com.myapp.NewTest"></class>
+				</classes>
+		</test>
+		
+		<test name = "Sample Test Case">
+			<classes>
+				<class name = "com.myapp.SampleTest"></class>
+			</classes>
+		</test>
+		
+		<test name = "Money Transfer Test Case">
+			<classes>
+				<class name = "com.myapp.MoneyTransferTest"></class>
+			</classes>
+		</test>
+	</suite>
+	<suite name = "Sample Suite Number 2">
+		<test name = "Money Transfer Test Case">
+			<classes>
+				<class name = "com.myapp.MoneyTransferTest"></class>
+			</classes>
+		</test>
+		
+		<test name = "New Test">
+			<classes>
+				<class name = "com.myapp.NewTest"></class>
+				</classes>
+		</test>
+		
+		<test name = "Sample Test Case">
+			<classes>
+				<class name = "com.myapp.SampleTest"></class>
+			</classes>
+		</test>
+	</suite>
+</suites>
